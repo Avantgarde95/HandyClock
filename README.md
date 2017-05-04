@@ -8,3 +8,6 @@ Simple clock written in python
 
 ### How to run
 Run ```python HandyClock.py```.
+
+### Screenshot
+![Screenshot](http://i64.tinypic.com/315br51.png)
